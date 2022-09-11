@@ -1,0 +1,10 @@
+{
+  "name": "Lay Path",
+  "id": "1150775026350149151",
+  "api": "1.0.0",
+  "main": "code.js",
+  "editorType": [
+    "figma"
+  ],
+  "ui": "ui.html"
+}
